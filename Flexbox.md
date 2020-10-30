@@ -1,6 +1,6 @@
 ## Flexbox
 
-<p style="color: red;">123456</p>
+<p style="color: red;">1234567</p>
 <link rel="stylesheet" href="style.css" />
 <div id="demo">
 
