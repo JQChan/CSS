@@ -22,6 +22,7 @@ position: static;
     background: #0091cc;
   }
 </style>
+
 ```css
 position: fixed;
 ```
