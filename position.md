@@ -30,14 +30,14 @@ position: fixed;
 ### 粘性定位 sticky
 
 <style>
-  #content-wrapper inner{
+  #content-wrapper .inner{
     display: flex;
     min-height: 100vh;
   }
-  #content-wrapper inner section{
+  #content-wrapper .inner section{
     flex: 1 80%;
   }
-  #content-wrapper inner aside{
+  #content-wrapper .inner aside{
     flex: 20%;
     position: sticky;
     top: 1em;
