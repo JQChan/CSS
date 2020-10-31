@@ -28,6 +28,7 @@ position: fixed;
 ```
 
 ### 粘性定位 sticky
+
 <style>
   #content-wrapper inner{
     display: flex;
